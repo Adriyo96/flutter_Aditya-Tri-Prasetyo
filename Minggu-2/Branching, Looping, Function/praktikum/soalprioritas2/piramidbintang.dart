@@ -1,6 +1,6 @@
 void main(){
   
-  int width = 10;
+  int width = 15;
   
     for(int i = 0 ; i < width; i++) {
       var stars = '';
@@ -13,6 +13,8 @@ void main(){
         stars += '* ';
       }
       
-      print(stars);
+      if (i % 2 == 0) {
+        print(stars);
+      }
   }
 }
