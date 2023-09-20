@@ -32,4 +32,10 @@ class ThemeTextStyle {
     fontWeight: FontWeight.w400,
     color: ThemeColor().supportingText,
   );
+
+  TextStyle m3LabelLarge = GoogleFonts.roboto(
+    fontSize: 14,
+    fontWeight: FontWeight.w500,
+    color: ThemeColor().labelTextColor,
+  );
 }

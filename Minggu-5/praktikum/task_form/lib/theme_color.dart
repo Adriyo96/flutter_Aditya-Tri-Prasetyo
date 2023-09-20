@@ -10,4 +10,5 @@ class ThemeColor {
   Color phoneIconColor = const Color(0xFF625B71);
   Color borderColor = const Color(0xFFCAC4D0);
   Color textFieldColor = const Color(0xFFE7E0EC);
+  Color labelTextColor = const Color(0xFFFFFFFF);
 }
