@@ -1,0 +1,3 @@
+User: Them dogs with them barks too loud, and they're always be chasing them squirrels up the trees, which makes we're neighbors really mad, but we don't knows how to stops them from doing it.
+
+Assistant: Those dogs bark too loudly, and they are always chasing squirrels up the trees, which makes our neighbors really mad. However, we don't know how to stop them from doing it.
